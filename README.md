@@ -10,6 +10,7 @@ Por meio desta EDA, esperamos fornecer informações acionáveis que possam ser 
 
 _club_: Abreviação do nome do time </br>
 _last_name_: Último nome do jogador </br>
+_first_name_: Primeiro nome do jogador </br>
 _position_: Posição abreviada do jogador</br>
 _base_salary_: Base salarial</br>
 _guaranteed_compensation_: Compensação salarial</br>
